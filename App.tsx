@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Mo you are a fucking morons SSS</Text>
+      <Text>Mo you are a fucking moron</Text>
       <Image source={require('./assets/logo-sq-wt.png')} style={styles.image}/>
     </View>
   );

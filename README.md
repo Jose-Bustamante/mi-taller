@@ -2,8 +2,9 @@
 
 ## What uses
 
-Expo https://docs.expo.io/guides/
-Turtle-cli (local build) https://docs.expo.io/distribution/turtle-cli/
+* Expo https://docs.expo.io/guides/
+
+* Turtle-cli (local build) https://docs.expo.io/distribution/turtle-cli/
 ## Commands
 
 Init:
