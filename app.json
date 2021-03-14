@@ -4,9 +4,13 @@
   "expo": {
     "name": "mi-taller",
     "slug": "mi-taller",
+    "icon": "./assets/logo.png",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.josebustamante.mitaller"
+    }
   }
 }
