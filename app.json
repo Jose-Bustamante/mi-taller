@@ -4,7 +4,8 @@
   "expo": {
     "name": "mi-taller",
     "slug": "mi-taller",
-    "icon": "./assets/logo.png",
+    "icon": "./assets/ic.png",
+    "owner": "jose-bustamante",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

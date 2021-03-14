@@ -1,10 +1,11 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Mo you are a fucking moron</Text>
+      <Text>Mo you are a fucking morons</Text>
+      <Image source={require('./assets/logo-sq-wt.png')} style={styles.image}/>
     </View>
   );
 }
@@ -16,4 +17,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  image: {
+    width: 300,
+    height: 300
+  }
 });
